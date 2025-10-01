@@ -1,4 +1,5 @@
 🕸️ Selenium ile Web Test Otomasyonu Projesi
+
 Bu proje, web uygulamalarının fonksiyonel testlerini otomatikleştirmek amacıyla Selenium WebDriver kullanılarak geliştirilmiştir. Tarayıcılar arası uyumluluğu test ederken manuel test yükünü azaltmayı ve yazılım kalitesini artırmayı hedefler.
 
 🧰 Kullanılan Teknolojiler:
