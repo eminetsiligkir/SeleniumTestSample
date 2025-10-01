@@ -3,7 +3,7 @@ Bu proje, web uygulamalarının fonksiyonel testlerini otomatikleştirmek amacı
 
 🧰 Kullanılan Teknolojiler:
 - Selenium WebDriver
-- Java / Python / C# (kendi dilini belirt)
+- Java 
 - TestNG / JUnit / NUnit
 - Maven / Gradle
 - Chrome, Firefox, Edge desteği
